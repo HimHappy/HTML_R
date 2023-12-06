@@ -1,0 +1,5 @@
+body{
+   background-image: url("D:/download.jpg");
+   background-size:cover /*!--auto ,contain.pixel me use kr skte hai i.e.,20px,20px*/;
+   background-repeat: /* repeat,no-repeat,repeat-x,repeat-y,round,space*/
+}
