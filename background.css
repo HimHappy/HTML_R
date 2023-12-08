@@ -1,0 +1,10 @@
+body{
+	background-image:
+    url("D:/download.jpg"),
+	url("D:/neptune.jpg"),
+	url("D:/unnamed.gif");
+	
+	background-repeat: no-repeat ,no-repeat,no-repeat;
+background-size: 460px 800px;
+background-position: 0px 0px,460px,0px,920px 0px;
+}
